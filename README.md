@@ -196,9 +196,6 @@
 	<a href="https://github.com/EsVCa/VS-Code-for-CP">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Memorama-to-Christmas&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/EsVCa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Copy-Youtube&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
   </p>
 </div>
 </details>
