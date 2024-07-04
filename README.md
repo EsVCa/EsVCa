@@ -18,9 +18,9 @@
 
 
 	
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/EsVCa/EsVCa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture><img align="right" src="https://github.com/EsVCa/EsVCa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 - :school: I am a `Junior` studying `Systems Engineering` at the Universidad Tecnológica de Pereira (UTP).
 - :technologist: I love using software as a solution for every `Problem`.
@@ -29,7 +29,7 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/EsVCa/EsVCa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:esvca23@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/EsVCa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -39,7 +39,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/EsVCa/EsVCa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -61,7 +61,7 @@
   
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/EsVCa/EsVCa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -81,7 +81,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/EsVCa/EsVCa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -94,14 +94,14 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/EsVCa/EsVCa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/EsVCa/EsVCa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -117,7 +117,7 @@
 ---
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/EsVCa/EsVCa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -187,44 +187,44 @@
 	<a href="https://github.com/EsVCa/Shorten-Link">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/EsVCa">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=EsVCa&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/EsVCa/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -235,5 +235,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/EsVCa/EsVCa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
