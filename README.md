@@ -167,73 +167,38 @@
 <div>
   <p align="center">
 	<a href="https://github.com/EsVCa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Testimonials&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=To-do-List&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/EsVCa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Counter-Clicks&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/EsVCa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Calculator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/EsVCa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Map-and-Weather&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Javascript-Project&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Proyect-Functional&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/EsVCa">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=EsVCa&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Memorama-engineering&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Memorama-to-Christmas&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/EsVCa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/EsVCa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=EsVCa&repo=Copy-Youtube&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
 </details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/EsVCa/EsVCa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
