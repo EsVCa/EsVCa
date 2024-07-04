@@ -129,25 +129,16 @@
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="EsVCa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsVCa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsVCa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="EsVCa" height="230px"/>
-<br/>
+---
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<p align='center'>
+	<a href='#'>
+		<img alt='EsVCa’s' Github Stats” src='https://github-readme-stats.vercel.app/api?username=EsVCa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact' height='230px'/>
+		<br>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsVCa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200px" alt="EsVCa"/>
+	</a>
+</p>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EsVCa&theme=github	)](https://github.com/EsVCa/github-readme-activity-graph)
-
- 
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
@@ -155,8 +146,6 @@
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsVCa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="EsVCa" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
 	
