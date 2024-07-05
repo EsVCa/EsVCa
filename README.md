@@ -8,12 +8,6 @@
 
 <br>
 
-<p align='center'> 
-	<img src='https://komarev.com/ghpvc/?username=EsVCa&label=Profile%20views&color=0047AB&style=plastic' alt='EsVCa' height='25px' width='160px'/> 
-	<a href='https://commits.top/egypt.html' target='_blank'>
-	</a>
-</p>
-
 
 	
 ## <picture><img src='https://github.com/EsVCa/EsVCa/blob/main/Images/about_me.gif?raw=true' width='50px'></picture> About Me
