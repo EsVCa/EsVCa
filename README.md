@@ -1,4 +1,4 @@
-<h1 align='center'>¡Hola! Soy Esteban Vásquez <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='35'></h1>
+<h1 align='center'>¡Hi! I'm Esteban Vásquez <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='35'></h1>
 
 <p align='center'>
   <a href='https://github.com/EsVCa'>
